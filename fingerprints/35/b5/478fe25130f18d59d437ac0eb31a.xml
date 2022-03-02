@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-03-01 09:23:12.417 UTC</timestamp>
+  <md5sum>35b5478fe25130f18d59d437ac0eb31a</md5sum>
+  <fileName>Credential id=cproject1 name=ec2-user (this is c project jenkins)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.6.1">
+      <timestamp>1646212277705</timestamp>
+      <nodeName>node1-c</nodeName>
+      <timestamp0>1646127478104</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

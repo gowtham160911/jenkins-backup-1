@@ -1,0 +1,10 @@
+Started by upstream project "[8mha:////4EKcjIMb7xixKPvluDrwErUP0L3q4p1c9Y7BpR68VfpIAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2v1LzszLxi3aTSzJwUfQDoSxJqyAAAAA==[0mJenkins-build" build number [8mha:////4EP/OrgspIfYOZk/F+7pPIhFlvWpGZgG9DtX2xFk3+MuAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBhH9rPwkfa/UvOzMvGLdpNLMnBR9QwAPs4v/yQAAAA==[0m1
+originally caused by:
+ Started by user [8mha:////4Dlp1P2COvT9C7h5iZ1p+0gf/ZxeiAXaeiHZrtOf+QHJAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgZO/dLi1CL9xKRkAGDVhlq+AAAA[0mABC
+Running as SYSTEM
+Building remotely on [8mha:////4Jp9rKo3nrSAU0lkj0QXOs9dFmCYfuG0C7XGd61nG32/AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZB/eT83ILSktQi/TygOw11kwHoEdLZxgAAAA==[0mnode1-c (label1) in workspace /home/ec2-user/workspace/Jenkins-deploy
+[Jenkins-deploy] $ /bin/sh -xe /tmp/jenkins5541472148031197137.sh
++ echo 'This is deploy step'
+This is deploy step
+Triggering a new build of [8mha:////4MtPpprIghll3oJ1wIUAKc4KxFxhqk0IlZLOHVlgoL9DAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+l6pedmZecW6JanFJfoA2p3WoMcAAAA=[0mJenkins-test
+Finished: SUCCESS

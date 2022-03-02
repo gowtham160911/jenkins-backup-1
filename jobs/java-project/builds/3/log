@@ -1,0 +1,22 @@
+Started by user [8mha:////4Dlp1P2COvT9C7h5iZ1p+0gf/ZxeiAXaeiHZrtOf+QHJAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgZO/dLi1CL9xKRkAGDVhlq+AAAA[0mABC
+Running as SYSTEM
+Building remotely on [8mha:////4FRy9Rgs7VdiEFhTMHpYJzQGO6q+VUeQD7MzQVqtcFemAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/eT83ILSktQi/TygO3VBJgIAPJT0ecgAAAA=[0mnode-java (label2) in workspace /home/ec2-user/workspace/java-project
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/gowtham160911/java.git
+ > git init /home/ec2-user/workspace/java-project # timeout=10
+Fetching upstream changes from https://github.com/gowtham160911/java.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/gowtham160911/java.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/gowtham160911/java.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 15c603992f56585f915e60d7cf2c6e6d613fc122 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 15c603992f56585f915e60d7cf2c6e6d613fc122 # timeout=10
+Commit message: "Merge pull request #1 from JohnChangUK/master"
+ > git rev-list --no-walk 15c603992f56585f915e60d7cf2c6e6d613fc122 # timeout=10
+Finished: SUCCESS

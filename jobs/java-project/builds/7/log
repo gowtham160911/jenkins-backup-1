@@ -1,0 +1,19 @@
+Started by GitHub push by gowtham160911
+Running as SYSTEM
+Building remotely on [8mha:////4FRy9Rgs7VdiEFhTMHpYJzQGO6q+VUeQD7MzQVqtcFemAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/eT83ILSktQi/TygO3VBJgIAPJT0ecgAAAA=[0mnode-java (label2) in workspace /home/ec2-user/workspace/java-project
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/ec2-user/workspace/java-project/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/gowtham160911/java.git # timeout=10
+Fetching upstream changes from https://github.com/gowtham160911/java.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/gowtham160911/java.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 30deac72d1b16d43bd095f417a0c969bde657c6e (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 30deac72d1b16d43bd095f417a0c969bde657c6e # timeout=10
+Commit message: "Create file22"
+ > git rev-list --no-walk d62fdb1cf000e4df3ccd56652a5771cdd7000521 # timeout=10
+Finished: SUCCESS

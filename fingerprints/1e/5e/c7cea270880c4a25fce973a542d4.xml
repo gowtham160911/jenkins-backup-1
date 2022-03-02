@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-03-01 10:12:57.519 UTC</timestamp>
+  <original>
+    <name>tomcat-mavenn/com.efsavage:hello-world-war</name>
+    <number>2</number>
+  </original>
+  <md5sum>1e5ec7cea270880c4a25fce973a542d4</md5sum>
+  <fileName>com.efsavage:hello-world-war-1.0.0.war</fileName>
+  <usages>
+    <entry>
+      <string>tomcat-mavenn</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>tomcat-mavenn/com.efsavage:hello-world-war</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

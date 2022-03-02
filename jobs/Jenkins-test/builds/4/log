@@ -1,0 +1,11 @@
+Started by upstream project "[8mha:////4EdlyYVi46faeDNFUaMcIGC2TSK3H/3w76NIxFwsW6JJAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYR/az8JH2v1LzszLxi3ZTUgpz8Sn0AxFLTC8kAAAA=[0mJenkins-deploy" build number [8mha:////4Hnu9AZNvP/4t3o+7mdhatoNSnLjZMT7dep7Sdt1v+ZnAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBlH9rPwkfa/UvOzMvGLdlNSCnPxKfRMAHMXHmsoAAAA=[0m4
+originally caused by:
+ Started by upstream project "[8mha:////4EKcjIMb7xixKPvluDrwErUP0L3q4p1c9Y7BpR68VfpIAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2v1LzszLxi3aTSzJwUfQDoSxJqyAAAAA==[0mJenkins-build" build number [8mha:////4HXRlfbCLrWLZB31vp/At5nD+xFaxvoJm4FU6KgBuF2eAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBhH9rPwkfa/UvOzMvGLdpNLMnBR9EwCAR+GPyQAAAA==[0m4
+ originally caused by:
+  Started by user [8mha:////4Dlp1P2COvT9C7h5iZ1p+0gf/ZxeiAXaeiHZrtOf+QHJAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgZO/dLi1CL9xKRkAGDVhlq+AAAA[0mABC
+Running as SYSTEM
+Building remotely on [8mha:////4Jp9rKo3nrSAU0lkj0QXOs9dFmCYfuG0C7XGd61nG32/AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZB/eT83ILSktQi/TygOw11kwHoEdLZxgAAAA==[0mnode1-c (label1) in workspace /home/ec2-user/workspace/Jenkins-test
+[Jenkins-test] $ /bin/sh -xe /tmp/jenkins4761736633244846681.sh
++ echo 'This is test step'
+This is test step
+Finished: SUCCESS

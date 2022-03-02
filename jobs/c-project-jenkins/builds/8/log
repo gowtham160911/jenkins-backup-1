@@ -1,0 +1,19 @@
+Started by GitHub push by gowtham160911
+Running as SYSTEM
+Building remotely on [8mha:////4Jp9rKo3nrSAU0lkj0QXOs9dFmCYfuG0C7XGd61nG32/AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZB/eT83ILSktQi/TygOw11kwHoEdLZxgAAAA==[0mnode1-c (label1) in workspace /home/ec2-user/workspace/c-project-jenkins
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/ec2-user/workspace/c-project-jenkins/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/gowtham160911/test1.git # timeout=10
+Fetching upstream changes from https://github.com/gowtham160911/test1.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/gowtham160911/test1.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision ade73be5a7b9b8502b3221cc7f7be70437a4ea6b (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ade73be5a7b9b8502b3221cc7f7be70437a4ea6b # timeout=10
+Commit message: "Update file22"
+ > git rev-list --no-walk e3259afc433c2831ba36276c8154848c9fbf8026 # timeout=10
+Finished: SUCCESS

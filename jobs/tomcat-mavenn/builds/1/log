@@ -1,0 +1,9 @@
+Started by user [8mha:////4Dlp1P2COvT9C7h5iZ1p+0gf/ZxeiAXaeiHZrtOf+QHJAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgZO/dLi1CL9xKRkAGDVhlq+AAAA[0mABC
+Running as SYSTEM
+Building remotely on [8mha:////4FRy9Rgs7VdiEFhTMHpYJzQGO6q+VUeQD7MzQVqtcFemAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/eT83ILSktQi/TygO3VBJgIAPJT0ecgAAAA=[0mnode-java (label2) in workspace /home/ec2-user/workspace/tomcat-mavenn
+Unpacking https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.4/apache-maven-3.8.4-bin.zip to /home/ec2-user/tools/hudson.tasks.Maven_MavenInstallation/maven on node-java
+Parsing POMs
+ERROR: No such file /home/ec2-user/workspace/tomcat-mavenn/pom.xml
+Perhaps you need to specify the correct POM file path in the project configuration?
+[DeployPublisher][INFO] Build failed, project not deployed
+Finished: FAILURE

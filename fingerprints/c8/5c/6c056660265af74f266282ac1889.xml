@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-03-01 10:12:58.208 UTC</timestamp>
+  <md5sum>c85c6c056660265af74f266282ac1889</md5sum>
+  <fileName>Credential id=f4a3553b-88bc-411e-83a7-a4f98be21d26 name=deployer/******</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@2.6.1">
+      <timestamp>1646129630253</timestamp>
+      <itemFullName>tomcat-mavenn</itemFullName>
+      <timestamp0>1646129629624</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
